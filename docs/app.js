@@ -29,7 +29,9 @@ function enter(e) {
     }
 }
 
-
+function touchClick() {
+    searchPokemon();     
+}
 
 
 
